@@ -1,3 +1,5 @@
+package leetcode.strings;
+
 /**
  * Find Longest Common prefix from String array.
  */
