@@ -1,0 +1,7 @@
+# IntelliJ
+.idea
+
+# Java build output
+out
+*.class
+target/
