@@ -49,5 +49,7 @@ public class FactorialTrailingZeros {
 
     public static void main(String[] args) {
         System.out.println(trailingZeroes(26));
+        System.out.println("=========================");
+        System.out.println(trailingZeroes2(125));
     }
 }
