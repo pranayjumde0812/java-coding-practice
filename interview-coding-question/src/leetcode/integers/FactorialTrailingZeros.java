@@ -24,11 +24,17 @@ package leetcode.integers;
 public class FactorialTrailingZeros {
     public static int trailingZeroes(int n) {
 
-        return 0;
+        int count = 0;
+
+        while (n > 0) {
+            n /= 5;
+            count += n;
+        }
+
+        return count;
     }
 
-
     public static void main(String[] args) {
-
+        System.out.println(trailingZeroes(26));
     }
 }
