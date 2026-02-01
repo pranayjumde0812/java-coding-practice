@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c422233b-cfbd-4744-87e6-e0ee02006321" name="Changes" comment="">
+    <list default="true" id="c422233b-cfbd-4744-87e6-e0ee02006321" name="Changes" comment="uguyuy">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/integers/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/integers/PalindromeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview-coding-question/leetcode/integers/FactorialTrailingZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview-coding-question/leetcode/integers/FactorialTrailingZeros.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +41,12 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.FactorialTrailingZeros.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReverseInteger.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/java-springboot-ecom-with-react/sb-ecom&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -51,13 +55,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DuplicateCharacters">
+  <component name="RunManager" selected="Application.FactorialTrailingZeros">
     <configuration name="DuplicateCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.strings.DuplicateCharacters" />
       <module name="interview-coding-question" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactorialTrailingZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.integers.FactorialTrailingZeros" />
+      <module name="interview-coding-question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.integers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,8 +108,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.DuplicateCharacters" />
+      <item itemvalue="Application.FactorialTrailingZeros" />
+      <item itemvalue="Application.ReverseInteger" />
+      <item itemvalue="Application.SingleNumber" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FactorialTrailingZeros" />
         <item itemvalue="Application.DuplicateCharacters" />
         <item itemvalue="Application.SingleNumber" />
         <item itemvalue="Application.ReverseInteger" />
@@ -116,6 +140,9 @@
       <option name="presentableId" value="Default" />
       <updated>1767810452900</updated>
       <workItem from="1767810455082" duration="1396000" />
+      <workItem from="1768028848957" duration="920000" />
+      <workItem from="1768131820888" duration="78000" />
+      <workItem from="1769949836808" duration="1674000" />
     </task>
     <servers />
   </component>
